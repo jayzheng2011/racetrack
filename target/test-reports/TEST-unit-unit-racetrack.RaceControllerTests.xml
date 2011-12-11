@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="BOS4ISLMJZHENG" name="racetrack.RaceControllerTests" tests="1" time="1.219" timestamp="2011-12-08T19:39:12">
-  <properties />
-  <testcase classname="racetrack.RaceControllerTests" name="testSomething" time="1.204" />
-  <system-out><![CDATA[--Output from testSomething--
-]]></system-out>
-  <system-err><![CDATA[--Output from testSomething--
-]]></system-err>
-</testsuite>
